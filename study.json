@@ -1,0 +1,10 @@
+{
+  "name": "debtmkt",
+  "author": "eosg",
+  "tags": [],
+  "scripts": {
+    "start": "kyso docker start"
+  },
+  "metadata": {},
+  "_version": "d0a7a0a5332c855211c89b88689146ba42f808b7"
+}
